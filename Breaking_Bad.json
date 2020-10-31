@@ -1,0 +1,896 @@
+{
+    "type": "TVSeries",
+    "TVSeriesInfo": [
+        {
+            "videoId": 70143836,
+            "nextPage": "https://www.netflix.com/ar/title/70143836",
+            "sectionData": [
+                {
+                    "type": "hero",
+                    "data": {
+                        "title": "Breaking Bad",
+                        "titleInfo": {
+                            "type": "titleMetadata",
+                            "data": {
+                                "title": "Breaking Bad",
+                                "synopsis": "Un profesor de Qu\u00edmica de secundaria con c\u00e1ncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+                                "hasContentWarning": false,
+                                "starring": [
+                                    "Bryan Cranston",
+                                    "Aaron Paul",
+                                    "Anna Gunn"
+                                ],
+                                "creators": [
+                                    "Vince Gilligan"
+                                ],
+                                "year": 2008,
+                                "seasonCount": 5,
+                                "isPlayable": true,
+                                "maturityDetails": {
+                                    "requestCountry": "AR",
+                                    "value": "16+",
+                                    "maturityDescription": "Apta para mayores de 16 a\u00f1os",
+                                    "maturityLevel": 110,
+                                    "specificRatingReason": "violencia, lenguaje inapropiado, drogas",
+                                    "board": "NFLX",
+                                    "boardId": 69,
+                                    "reasons": [
+                                        {
+                                            "id": 985,
+                                            "reasonDescription": "violencia",
+                                            "levelDescription": null
+                                        },
+                                        {
+                                            "id": 988,
+                                            "reasonDescription": "lenguaje inapropiado",
+                                            "levelDescription": null
+                                        },
+                                        {
+                                            "id": 989,
+                                            "reasonDescription": "drogas",
+                                            "levelDescription": null
+                                        }
+                                    ]
+                                },
+                                "coreGenre": {
+                                    "genreName": "Dramas de TV sobre crimen",
+                                    "genreUrl": "https://www.netflix.com/ar/browse/genre/26009"
+                                },
+                                "shouldShowSamplingWarning": false
+                            }
+                        },
+                        "valueProp": {
+                            "type": "valueProp",
+                            "data": {
+                                "bodyText": "WATCH_ALL_YOU_WANT"
+                            }
+                        },
+                        "watchFreeURL": null,
+                        "artwork": {
+                            "logo": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfusJqVG0DEIi4tUuFCAUln9yk__7-MF8wCT_2RBrVwU034oY5-u3yfUgttlaKIYsCqgBtGYy7XXGbqOAjQZ30dvBT2CluUgpTEL.png?r=295",
+                            "heroImage": {
+                                "type": "billboard",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXxoWTdPH3iMXTnzIk-_aIcgSKVAF3Cij7JbpftqmjzFiff2IGDsioilZru0F4TaJqwA1udYGGm2oJZC9LYcEUdewBND.jpg?r=e04",
+                                "height": 1152,
+                                "width": 2048,
+                                "isFallback": false
+                            },
+                            "mobileHeroImage": {
+                                "url": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABeq9Fg04r6qPCr1dq7VKOglPPuluLbGBoyy60tgKnh9KsXWh5Y2VaY7jDWhrl4QQV1NhshZxCtLJrM_3V_WJc5J0p-eW.jpg?r=776",
+                                "height": 720,
+                                "width": 1280,
+                                "isFallback": false
+                            }
+                        },
+                        "clipsAndExtras": null
+                    }
+                },
+                {
+                    "type": "hook",
+                    "data": {
+                        "hookText": "'Breaking Bad' gan\u00f3 16 premios Emmy, incluidos cuatro a mejor actor para la estrella Bryan Cranston.",
+                        "headerText": "Ve la temporada"
+                    }
+                }
+            ]
+        }
+    ],
+    "seasons": [
+        [
+            {
+                "seasonId": 70105286,
+                "num": 1,
+                "synopsis": "A medida que Walter construye su imperio, su esposa empieza a sospechar de su err\u00e1tica conducta, y la DEA inicia la b\u00fasqueda de un nuevo l\u00edder de la droga.",
+                "seasonName": "Temporada 1",
+                "releaseYear": 2008,
+                "shortName": "T1",
+                "episodes": [
+                    {
+                        "episodeId": 70196252,
+                        "episodeNum": 1,
+                        "title": "Principio del fin",
+                        "synopsis": "Un profesor de qu\u00edmica de escuela secundaria recurre a la venta de drogas para mantener a su familia.",
+                        "runtime": 3501,
+                        "displayRuntime": 3501,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaYZEwa45AkzGtR7e5__zSmv8H15L1ri1DKf7pDS69wMsnVHau87cHeYTJrxDLvtEkranI1gIob6jqXeSQg2dcNKjhC3-0CCJraYFejgw9weqyG4.jpg?r=c11",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196253,
+                        "episodeNum": 2,
+                        "title": "El gato en la bolsa",
+                        "synopsis": "Luego del fracaso de su primer negocio de drogas, Walt y Jesse deben deshacerse de dos cad\u00e1veres. Skyler sospecha que su marido no est\u00e1 involucrado en nada bueno.",
+                        "runtime": 2903,
+                        "displayRuntime": 2903,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbr2HNSArj5G3O6GcO8Ju6qNjqUOg-AhFHdDskUKIdp9j0LkJkBsoccWfpiPqhBOM4Nsl_8uCpvALheoRNQp-E-7kA3fmBRNIq7g2CFx657V4RgP.jpg?r=73d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196254,
+                        "episodeNum": 3,
+                        "title": "Y la bolsa en el r\u00edo",
+                        "synopsis": "Mientras Walt limpia el desorden que qued\u00f3 tras su primer negocio de drogas, piensa en decirle a Skyler la verdad sobre su enfermedad.",
+                        "runtime": 2903,
+                        "displayRuntime": 2903,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ9RBMWcJCAMJt4-_igqrfcWJSwNstB3uCjsmB6YBSvcP3QIuARMA9e0MnqteninhTurKqlPdbTglLvjYt0MUTytE_vj069UemyhKmLT0XOEfer4.jpg?r=319",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196255,
+                        "episodeNum": 4,
+                        "title": "C\u00e1ncer",
+                        "synopsis": "Al ser forzado a contar la verdad acerca de su enfermedad, Walt enfrenta el problema de c\u00f3mo pagar una serie de caros tratamientos contra el c\u00e1ncer.",
+                        "runtime": 2905,
+                        "displayRuntime": 2905,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABehJl2k8IHqRQJ5yn_2eG9MDSK5C3A47FYbri4YS6_yyRSGvSQtEui30vT4q2lgtlb1pB0TD65Z2XJeZh2DAoPZtUzmGOuG4rN_59UVgj77b21lA.jpg?r=97a",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196256,
+                        "episodeNum": 5,
+                        "title": "Materia gris",
+                        "synopsis": "Skyler organiza una intervenci\u00f3n para convencer a Walt de que acepte la generosa oferta de su excompa\u00f1ero de investigaciones de pagar el tratamiento contra el c\u00e1ncer.",
+                        "runtime": 2889,
+                        "displayRuntime": 2889,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc2E2D6XXwogNfDadOqXTamrrO2MjdhMuRRwFr0Cm6M3x9Z3A5uoQa-0ILGlgvabWsbJxKwxLARRROZ7Wgg0DzQM-vyMzxQynZIklvzmK-DEXjPh.jpg?r=5b3",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196257,
+                        "episodeNum": 6,
+                        "title": "Un loco pu\u00f1ado de nada",
+                        "synopsis": "Los efectos secundarios y el costo del tratamiento crecen, y Walt exige que Jesse encuentre un revendedor para sus drogas; Jesse termina en problemas con un exconvicto.",
+                        "runtime": 2897,
+                        "displayRuntime": 2897,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcmaD87dICXSypkzASoo6SJHCuLrmM-VxBNmGSe_awF08dVZNsMI-XD290yR-87zM1WEC3mUyaLGnOI6d6ALeE_wVJo_VKCd-PSGfWmTdiy5yVpM.jpg?r=09e",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196258,
+                        "episodeNum": 7,
+                        "title": "Acuerdo no violento",
+                        "synopsis": "Tras el encuentro cercano de Jesse con la muerte, Walt acepta producir m\u00e1s drogas para Tuco, mientras Skyler sospecha que su hermana rob\u00f3 un costoso regalo para beb\u00e9s.",
+                        "runtime": 2872,
+                        "displayRuntime": 2872,
+                        "year": 2008,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVYieKCbG8s4fO0qVrZTqsmnFgqDXlMmIcb1utnrSR48aK2mkWf-ey-qdy-t35gxW5WROd3R7t4YN0iS5-jq_4e3sJo3XQ8ztIUWDWgiH9Gycbxc.jpg?r=248",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            },
+            {
+                "seasonId": 70114191,
+                "num": 2,
+                "synopsis": "Walter y Jesse, llegan alto en el juego de las drogas, llamando la atenci\u00f3n del cartel rival y poniendo en peligro a Hank; cu\u00f1ado de Walter y agente de la DEA.",
+                "seasonName": "Temporada 2",
+                "releaseYear": 2009,
+                "shortName": "T2",
+                "episodes": [
+                    {
+                        "episodeId": 70196259,
+                        "episodeNum": 1,
+                        "title": "Siete con treinta y siete",
+                        "synopsis": "Cuando preparan los planes para su gran negocio final de drogas, a Walt y Jesse les preocupa que a Tuco se le ocurra matarlos cuando quiera.",
+                        "runtime": 2844,
+                        "displayRuntime": 2844,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQTfjeMCYOYrn8-8SAPAPGmsXp0hBsbQE09A5h22Poz53hmcLpLk8_WnxAf90_W-qQeAyHIB_P4ybZHFAup0VkV6VQ1H_ksceMiKPnCtUu7mGBhR.jpg?r=4c4",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196260,
+                        "episodeNum": 2,
+                        "title": "A las brasas",
+                        "synopsis": "Mientras la DEA pone en marcha la b\u00fasqueda de Tuco, Skyler recurre a Hank para que la ayude a encontrar a Walt.",
+                        "runtime": 2887,
+                        "displayRuntime": 2887,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa6cdzilwHP6-RT52vMNqNhON52_ekNU2XltYK46Y9ZeDk4rC5IsTxmN2awK0NdCm3ORE5I9Q46cLkOVs2ZER0EgsQTQ3zCnMbxP1-Sk2UEbvEG2.jpg?r=829",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196261,
+                        "episodeNum": 3,
+                        "title": "Picadura de una abeja muerta",
+                        "synopsis": "Walt intenta volver a acercarse a Skyler, y Jesse se encuentra sin hogar despu\u00e9s de que sus padres lo echan de su casa.",
+                        "runtime": 2830,
+                        "displayRuntime": 2830,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQtBfEdYJ6fTzi4ojxgUtUN3iax8GhojXmFhkxz08qEO5wS00fx24Vi5R_wR3NWkfwlS_jAjcGYUHyJcqk-GN7vuIuFjTTDoUbujt7rOKsOwsDaI.jpg?r=4e9",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196262,
+                        "episodeNum": 4,
+                        "title": "Abajo",
+                        "synopsis": "Walt lucha por intentar salvar su relaci\u00f3n con Skyler, y Jesse se queda sin hogar cuando sus padres lo desalojan.",
+                        "runtime": 2854,
+                        "displayRuntime": 2854,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRmbj2I2iWUP1km4b0zxx9hG5XRiru_iJjx_XpSpKHnMHfsHNZOyADsaUAqjQIScsLgBTWgE-dv_fhe1AzAszaA1FBOu60uL9NJ35WR-jXF0Q_sw.jpg?r=5c3",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196263,
+                        "episodeNum": 5,
+                        "title": "Rotura",
+                        "synopsis": "Hank trata de recobrar la compostura tras su encuentro con Tuco. Mientras, Jesse forma una pandilla para distribuir m\u00e1s producto por la ciudad.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZO-4MSyIxScnCOqnaGW13jNNQFNycJJt3xuNdNe43ZKZJlEfes3sCRl56V_Y81JMVUIgCUTybDe6FGavr5_TwuL1XLR5Sj2W6v0QAwwyRkSGRqZ.jpg?r=6e5",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196264,
+                        "episodeNum": 6,
+                        "title": "Cuc\u00fa",
+                        "synopsis": "Jesse busca a los adictos que robaron las drogas a Skinny Pete, y Walt lucha por sostener su coartada para explicar c\u00f3mo ha pagado el tratamiento de c\u00e1ncer.",
+                        "runtime": 2852,
+                        "displayRuntime": 2852,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRfAdec6QtxqRcbmF0mBmLvFBRfijF18n09hz1DuJomvSbyZg6i3LLg8tAAG8FgyllCTqzVR8P7fBRgsYxkWXWWQKx3-jIrELRGSnPRzpH87FATt.jpg?r=34c",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196265,
+                        "episodeNum": 7,
+                        "title": "Negro y azul",
+                        "synopsis": "La reputaci\u00f3n de narco implacable de Jesse lleva a Walt a ampliar sus actividades; la incursi\u00f3n de Hank en el mundo de la oficina de la DEA en El Paso lo estremece.",
+                        "runtime": 2852,
+                        "displayRuntime": 2852,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX9-WRGXKZ3h_WW_5G-7vInHswAvXo1Y7MIbwepu8x6HZPY7BI8z8YggDQMhmYTavmHdyErnkfVyjahPkTX5koQBMHH9ZsKeBfIVjjXLgzxmu-DJ.jpg?r=3a0",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196266,
+                        "episodeNum": 8,
+                        "title": "\u00a1Llama a Saul!",
+                        "synopsis": "El arresto de Badger obliga a Walt y Jesse a contratar a un abogado de mala reputaci\u00f3n.",
+                        "runtime": 2852,
+                        "displayRuntime": 2852,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdcGo_IX4JRt_iYSHVH3tXkkgvGxPY-x5KgFlA4XQe4zEtLau5jxZzvr1fHxtn-0gmn4uEvlK_vFHA07tsdUorxfn89V4S_TypKBMzObYWFoBSek.jpg?r=922",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196267,
+                        "episodeNum": 9,
+                        "title": "Cuatro d\u00edas afuera",
+                        "synopsis": "Preocupado porque no le queda mucha vida, Walt intenta cubrir las necesidades de su familia en una marat\u00f3nica sesi\u00f3n de preparaci\u00f3n de metanfetamina con Jesse.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfDCM46m68lpxr9e0PLmnjYOKwFOba3-odOyTOxmj5r1d1_j5R0zwQykiHL1LwDxEsc2-_gpcGWYZHre9dKH-l26P8W6D_3aJ33rqH9a4azv3wyZ.jpg?r=4f1",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196268,
+                        "episodeNum": 10,
+                        "title": "Terminado",
+                        "synopsis": "Al recibir buenas noticias sobre el tratamiento de c\u00e1ncer, Walt acude a su cu\u00f1ado, Hank, antes de centrar su atenci\u00f3n en hacer las cosas bien en su hogar.",
+                        "runtime": 2854,
+                        "displayRuntime": 2854,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYBpP-QyLGFbPEKmsloW7C-Wa90Kd5CN0wP_Z1tKU9dM62pZoovmzCHXL3jroyGdmpDt8ZQJG2MFCvvAUTNRc787nISNzchqNfGKiOmXweKpnVC9.jpg?r=c3b",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196269,
+                        "episodeNum": 11,
+                        "title": "Mandala",
+                        "synopsis": "Skyler tiene conflictos por sus sentimientos hacia su jefe. La muerte de un vendedor callejero fuerza a Walt a buscar otro lugar para vender la metanfetamina.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXdVa-PDJli_O9ekHA2g8xHx40f2LTd4d5P2lThTlGA91mnnaoZ5oi3G3iGS99P5OCRwLuGtFx_oEBdCCs38joNIsNyjyy-BzgK0Lu6yKmw7YVRQ.jpg?r=0f7",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196270,
+                        "episodeNum": 12,
+                        "title": "Phoenix",
+                        "synopsis": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirug\u00eda y pretende esconder la procedencia de su dinero a Skyler y Walt Jr.",
+                        "runtime": 2854,
+                        "displayRuntime": 2854,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYeM32pDMDaPXkgnp6RU6yFSN2ksjurAxjbNjUYENWGTEoM05TiIZph991aIm46y2caXyCE3RCT2hULq7V1UE1guLJL_RBYonP7F4eiGUOzadXrC.jpg?r=a4f",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196271,
+                        "episodeNum": 13,
+                        "title": "ABQ",
+                        "synopsis": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirug\u00eda y pretende esconder la procedencia de su dinero a Skyler y Walt Jr.",
+                        "runtime": 2864,
+                        "displayRuntime": 2864,
+                        "year": 2009,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbmII0EjI-ObCpimTAmv81Ki3HwtgckIWI67AeF9FZNwWbkCbhhy-ua1lplKo_4xmqJxzkW73dDB6bJe6RvvwlQLyioSUs4RhbCq2Zp53JOQ1DD5.jpg?r=f5d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            },
+            {
+                "seasonId": 70135553,
+                "num": 3,
+                "synopsis": "Pensando en su familia, Walter sigue cocinando metanfetamina en secreto. Mientras, Jesse, ex alumno de Walter, se ha hecho adicto a la hero\u00edna.",
+                "seasonName": "Temporada 3",
+                "releaseYear": 2010,
+                "shortName": "T3",
+                "episodes": [
+                    {
+                        "episodeId": 70196272,
+                        "episodeNum": 1,
+                        "title": "No m\u00e1s",
+                        "synopsis": "Tras el desastre a\u00e9reo de Albuquerque, Skyler obliga a Walt a mudarse, mientras la estad\u00eda de Jesse en rehabilitaci\u00f3n lo ayuda a aceptar su rol en el fatal choque a\u00e9reo.",
+                        "runtime": 2848,
+                        "displayRuntime": 2848,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSky9Sv5Fnh2DP6R1MQ-TINE-iWmZxpj9crWOk6Ko85PqcZX4Ty_TpMn-x61OzDftvYTqYkUnN3sH_GYwYJ-znK2FEKZGh6uNnV-8V6S7YDO4jFx.jpg?r=46a",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196273,
+                        "episodeNum": 2,
+                        "title": "Caballo sin nombre",
+                        "synopsis": "Skyler est\u00e1 decidida a divorciarse, y Walt acaba en la mira de dos asesinos de un c\u00e1rtel mexicano que buscan venganza.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVTJUMpn-8kn--wkLwDKGIEm-x8R7HnkFTlDVP8TRbch4jVKZjzondrJkroecUd-TkRFHaBtpGbjQVGlB2yP3gJQycYiRUOUv6PRH91cjGCoZAPC.jpg?r=bbc",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196274,
+                        "episodeNum": 3,
+                        "title": "T.\u00a0S.\u00a0T.",
+                        "synopsis": "Jesse se cuestiona volver al negocio de las drogas ya que una organizaci\u00f3n de narcotraficantes espera con ansias vengar la muerte de uno de sus miembros.",
+                        "runtime": 2836,
+                        "displayRuntime": 2836,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXsE8T0jX8tfWwFzXmL15qMZuJUlznae6Gk0ILYzTeFKz0gdW8e2wP0CzV68uDQwCnRVP6q52sfG52lpM1lri-LDyY-9KK76hYFNBJoOvTcjQKbt.jpg?r=68a",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196275,
+                        "episodeNum": 4,
+                        "title": "Luz verde",
+                        "synopsis": "Mientras el romance de Skyler con su jefe crea caos en su matrimonio, un lote de metanfetamina que devuelve a Jesse al negocio involucra inadvertidamente a Walt.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQBspgHvI-YHkpWqg-L3pQ2qjG4SuRayGq0qwybXE3uVnISXeUqQ9LzOiN2MH_CGMf-TINGCfQRCEnh5wqUExkwzLm9IKtoTx4U3up6dz_K97aJ1.jpg?r=87b",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196276,
+                        "episodeNum": 5,
+                        "title": "M\u00e1s",
+                        "synopsis": "Walt considera una oferta para regresar al narcotr\u00e1fico; la obsesi\u00f3n de Hank por atrapar a 'Heisenberg' trae problemas para Jesse.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ3gW70_0avhMiKnlVr_mahPVtflJOTx41MtB-OQvJdgr6-zVFLFibPV-6xQTu2u_-Lbhees0sWhBno7yPDM_e9gzUhkytcDQZ_u5l-OFJD__v7w.jpg?r=c68",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196277,
+                        "episodeNum": 6,
+                        "title": "Atardecer",
+                        "synopsis": "Walt vuelve al narcotr\u00e1fico en el laboratorio de Gus, pero el descubrimiento de su vieja casa rodante lo fuerza a \u00e9l y a Jesse a actuar para que Hank no los descubra.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR41A5jNaQi7H7KQfwZQYnCAUxQi538hsoETDjdedeqrWvNnlvk_6vS-FwK0cuVXfG25UH3gH0ggCb8xDOZK1IK0MwXV25OgbkDLFU0KJeS7i75n.jpg?r=0b2",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196278,
+                        "episodeNum": 7,
+                        "title": "Un minuto",
+                        "synopsis": "Hank, enojado, arriesga su carrera al atacar a Jesse; Walt, preocupado de que Jesse hable, le da un lugar en su laboratorio.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVQiIsSpixZUkz-Jh-H_1Lf6DtLeM8QmkV6CPFoVlDqu5IJ4--WhJYtkZs58FGnHIVGXiffNrbCMPOjXF0pmPkBZcLkjiJM2SbyU7qMHjtiHuZkL.jpg?r=02b",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196279,
+                        "episodeNum": 8,
+                        "title": "Te veo",
+                        "synopsis": "Mientras Hank se aferra a la vida, Walt descubre que los matones pueden estar tras \u00e9l y busca alejarse de los problemas tomando a Jesse como compa\u00f1ero.",
+                        "runtime": 2848,
+                        "displayRuntime": 2848,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQDIleSgyjo1ZHZgPwxqQbv5K2i3JQdDRODarXh7lebN1DRsKD666-zcrQWgNRslJu0hi6tIiFCxiRpyOiN2HAwstIrSaB2N0nx2vieKSs7xCH9u.jpg?r=cbc",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196280,
+                        "episodeNum": 9,
+                        "title": "Kafkiano",
+                        "synopsis": "Al retomar la producci\u00f3n junto a Walt, Jesse piensa c\u00f3mo aumentar las ganancias; la recuperaci\u00f3n de Hank pone a Marie en una situaci\u00f3n dif\u00edcil con la compa\u00f1\u00eda de seguros.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXSkAxRr9cJEeRWjfj4c-EaLWqmIJFDORtqvf--90Oun-ubvVIRTEeNOAoj5qns4-f7VdlflTvzIG2p0VNkNT-znlSamqJ2jV_vwR-vGAVCBebO5.jpg?r=7e3",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196281,
+                        "episodeNum": 10,
+                        "title": "Vuelo",
+                        "synopsis": "Walt y Jesse se enfrentan a una larga noche en el laboratorio... y a una fastidiosa mosca.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABURGr-j_U9XM4Z4n57dj3YRSiZ2xin72_HgJLQpKtJ21wQNhdoUdznwt1poCM8p1f0MOFWUl_9AaAkuIwNPhkejU-UziXFpbYslRqnrwQzb7qH5Y.jpg?r=56c",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196282,
+                        "episodeNum": 11,
+                        "title": "Abiqui\u00fa",
+                        "synopsis": "Hank no est\u00e1 contento con su recuperaci\u00f3n; Skyler cuestiona el negocio de lavado de dinero de Saul, y Jesse se enamora de una compa\u00f1era de rehabilitaci\u00f3n.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa5TxI9Rx_-I5sNbfEeyjv602GdpCQHzFGIMBWgTNajzOyUapPCqpLjoPrbJoi_0tPNICRyD998pvW3QkLSR-em63OR4bZelW3KapQyFjHC2mctS.jpg?r=575",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196283,
+                        "episodeNum": 12,
+                        "title": "Medias medidas",
+                        "synopsis": "Jesse va tras los narcos que mataron a Combo, Hank se niega a dejar el hospital y Skyler presiona a Walt para que acepte el negocio de lavado de dinero.",
+                        "runtime": 2848,
+                        "displayRuntime": 2848,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXhD3sCg7BXxTc8kuXEuM77SA5Pn3E3KmdnFl0o_9YVXExfqAGMraHRTg3_SbsWMrBtyTFr-9jyxyle-k0mQPVBzHC57UIylLC_KVOofgfX8o4FW.jpg?r=1ad",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70196284,
+                        "episodeNum": 13,
+                        "title": "Medidas totales",
+                        "synopsis": "Luego de liquidar a dos traficantes de su jefe, Walt se da cuenta de que Gus planea matarlo y reemplazarlo con su anterior asistente.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2010,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUVz2-gj-JEmFZUlRrsVFk1U-F0_rf2d-vwV_jhbY0_Dd520tatOpKzm8MVXej8FHiH8R57ZYBXYPWW0lp7iJSnMe8sYZfKlooe-ai24MZNCK2bj.jpg?r=b2e",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            },
+            {
+                "seasonId": 70151252,
+                "num": 4,
+                "synopsis": "Bryan Cranston regresa en una nueva temporada como Walter White, quien sigue elaborando metanfetaminas e intentando superar al narcotraficante Gus Fring.",
+                "seasonName": "Temporada 4",
+                "releaseYear": 2011,
+                "shortName": "T4",
+                "episodes": [
+                    {
+                        "episodeId": 70236035,
+                        "episodeNum": 1,
+                        "title": "Navaja",
+                        "synopsis": "Despu\u00e9s de luchar por sus vidas en una turbulenta situaci\u00f3n, Walt y Jesse esperan con ansiedad la pr\u00f3xima jugada de Gus.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa1aY4jjsIsEnNl9L_aiYBVBQRyO8pwrwI_G0yoJ94UH8z4I1XQu521i25ux5TvBGJ3W1V_481wVJze1_kN-xpBHGQyp0RWUhdbS7Rb6tLrl42iQ.jpg?r=d4d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236036,
+                        "episodeNum": 2,
+                        "title": "Rev\u00f3lver calibre 38",
+                        "synopsis": "Mientras Walt prepara su defensa contra Gus, Jesse hace frente a la presi\u00f3n renovando su amistad con Badger y Skinny Pete.",
+                        "runtime": 2774,
+                        "displayRuntime": 2774,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa8a7d7X-rWm_LygyUN_V4aCreO1DHA7JsJhsf8PnL7n7EpRsEmW0ih3qMef_ot56DeaK6vFSpi4q_jQk_QVMeAtIQtksb01fd_5nQ5iWUsOpfhT.jpg?r=6d1",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236037,
+                        "episodeNum": 3,
+                        "title": "Casa abierta",
+                        "synopsis": "Mientras Walt se preocupa acerca de la intromisi\u00f3n de Gus y la salud mental de Jesse, cada vez m\u00e1s fr\u00e1gil, Skyler aumenta la presi\u00f3n para obtener lo que quiere.",
+                        "runtime": 2786,
+                        "displayRuntime": 2786,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYeDaKtv809OhMHMo2mAz7BU19ObwwA4PWJWWY6ZNerWpy6p-Yd3rFyOfOOBhYQspuEM1Knjv39qmvWfhRpm9IJK59Paw9jbdSkUzXZG57ZPtDwk.jpg?r=ba4",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236038,
+                        "episodeNum": 4,
+                        "title": "Puntos clave",
+                        "synopsis": "Mientras Skyler arma una historia elaborada para explicar las finanzas de los White, Walt, preocupado, descubre que Hank ha comenzado una nueva investigaci\u00f3n.",
+                        "runtime": 2728,
+                        "displayRuntime": 2728,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTSWii1AOwPL2Iu9aus3TJIjK4gvk8tmim7jVouSZ1H2nYEJzCN2HbL094p0Bd1YphYU9vUvpqb7DvMnDLHWd_DYicWD1VN_kqadSxeFADmVFmmI.jpg?r=bad",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236039,
+                        "episodeNum": 5,
+                        "title": "Copiloto",
+                        "synopsis": "Jesse acompa\u00f1a como copiloto a Mike en una riesgosa serie de picadas, lo que hace que Walt se preocupe por la posible muerte de su socio.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ9Rzn5lRqnKanOQDlllLN0uWQ1NGoffASJdBSkNQGCYCuNJLN44Srqtezgwi9JA3UYdqLtn283UmV0hM6aZTDXYvFeoNX4O3lxnynM38TpBxDBf.jpg?r=1d4",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236040,
+                        "episodeNum": 6,
+                        "title": "Arrinconados",
+                        "synopsis": "Skyler adopta un enfoque reservado cuando sospecha que Walt no le est\u00e1 diciendo la verdad. Mientras tanto, Jesse prueba su val\u00eda ante Mike y Gus.",
+                        "runtime": 2834,
+                        "displayRuntime": 2834,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTqXqOy9rpPatdzAlRPQbCefZxlB8SbebsH9W10HlHN8FaaIi6Ozr_e0PGfAqAQHu4z0VAGkJ6qKBioiDdOoMi2BjcwDpXU5BoV9CWj5Sj-ootj_.jpg?r=1b8",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236041,
+                        "episodeNum": 7,
+                        "title": "Perro problem\u00e1tico",
+                        "synopsis": "Obligado a devolver el auto que compr\u00f3 para su hijo, Walt responde poniendo en aprietos a Skyler con su nueva operaci\u00f3n de lavado de dinero.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYPOHckwait1v4ahNfo0rpvD5dt7sOl5_U1z99wkzrsBkrfLfzaQcY0j8DCi8F4ySFriBBbhDX-muq-LWEUdPiQ5VQPT2mHTZy1NoRad55MBceVn.jpg?r=156",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236042,
+                        "episodeNum": 8,
+                        "title": "Hermanos",
+                        "synopsis": "Cuando Hank presenta evidencia de que Gus es el narcotraficante de metanfetamina de Albuquerque, a Walt le preocupa que los maten a \u00e9l y a Jesse por proteger a su jefe.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQG2pcxY9gVfOneAS5OTtngRPCMek9Orhj8G89uqCApt_lf-0c7UshaU8B9dRM6Kz7cSJg8PvCpd21IoRuGd0CuJk3NiIqcsLA29HtFNg78uAMtz.jpg?r=bdc",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236043,
+                        "episodeNum": 9,
+                        "title": "Micr\u00f3fono",
+                        "synopsis": "Mientras Walt intenta subvertir la investigaci\u00f3n de Hank sobre la escena de Albuquerque, una advertencia mortal fuerza a Gus a considerar un trato con el c\u00e1rtel mexicano.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaRjivHboCtFJ_yGXACNwDPoKozGZn9UjEIgJ00akWHArpAkdEx3wIeyOJpkiEVNW8nb3lKhba8c4b92JWa9-7_4_v_r7XHejmx7wUACYCqTLe5y.jpg?r=023",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236044,
+                        "episodeNum": 10,
+                        "title": "Salud",
+                        "synopsis": "Mientras Walt, maltratado, a\u00fan se recupera de la pelea, Gus se lleva a Jesse con \u00e9l a M\u00e9xico para cerrar un trato con el c\u00e1rtel.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVJuvgc-HP_ycrdTzV-RrYABwBFuk-CNOULgEf2M7yd3BVyHCLfNQtWlok2c6V8fITvJZ-6oQHzUVG5UWv7xR4nvypEZmaPRCcU70_UE_HzcMz2R.jpg?r=f28",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236045,
+                        "episodeNum": 11,
+                        "title": "Entrepiso",
+                        "synopsis": "Mientras Skyler presiona a Ted para que acepte su dinero y pueda pagar los impuestos, Gus sostiene que Jesse deber\u00eda reanudar su trabajo en el laboratorio \u00e9l solo.",
+                        "runtime": 2830,
+                        "displayRuntime": 2830,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd0MMWDiLYCviwfq3xSZ0yfBJYMqzrgSmMqJEjzGppnQ8CixyZ2xnjSXPXNiY6CxGG9wTZVoIGwHIwMKxbws4sRJusJ45FzZVyIGHRy1W1ll7dF0.jpg?r=a4d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236046,
+                        "episodeNum": 12,
+                        "title": "Fin de los tiempos",
+                        "synopsis": "Mientras le ordena a su familia que aproveche la protecci\u00f3n que la DEA le ofrece a Hank, Walt espera el destino que le toque.",
+                        "runtime": 2770,
+                        "displayRuntime": 2770,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbZ0mq7ca73Ou3Km2bMEKlPwLifxoUERA8ZTAp97J6dZ5wLOqdVn7rbabNWrJS2cV3uRgoNeStF_7-5ng7NJHBVPkbWdzz2F6QpjFY_QWOFtRCTH.jpg?r=01e",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236047,
+                        "episodeNum": 13,
+                        "title": "Cara a cara",
+                        "synopsis": "Cuando su plan de matar a Gus fracasa, Walt y Jesse deben actuar r\u00e1pido para cubrir sus rastros y evitar la muerte.",
+                        "runtime": 3041,
+                        "displayRuntime": 3041,
+                        "year": 2011,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ7udAu8Z4mFkKMUZDE59-CYkRTtxMca-385bjnP8mNq69mg1xdtuIgZRcTzftbEMceK66nncZV1irrTcviASO58I3m0y5bM5sfTBNcwYX_IJJLl.jpg?r=fa2",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            },
+            {
+                "seasonId": 70236411,
+                "num": 5,
+                "synopsis": "En la temporada final, Walt ya no tiene que esforzarse por ser malo. Su vida sigue en una espiral descendente que le lleva a lo m\u00e1s alto de un imperio de la droga.",
+                "seasonName": "Temporada 5",
+                "releaseYear": 2012,
+                "shortName": "T5",
+                "episodes": [
+                    {
+                        "episodeId": 70236412,
+                        "episodeNum": 1,
+                        "title": "Vive libre o muere",
+                        "synopsis": "Walt visita a su familia, que a\u00fan est\u00e1 en custodia, mientras debe lidiar con las secuelas de la explosi\u00f3n en Casa Tranquila.",
+                        "runtime": 2592,
+                        "displayRuntime": 2592,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYijmzAlODbQxo6ToEApXcG_jyLrti-s4lOX0XX2KlIJRR-X76deugVWf71z-mrydnpKmvRASDtpSKhpYU6iHFzq_LV0ZMNVRV2OPi19BmcNcYtQ.jpg?r=428",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236413,
+                        "episodeNum": 2,
+                        "title": "Madrigal",
+                        "synopsis": "Walt y Jesse deciden buscar un nuevo compa\u00f1ero para que los ayude en su \u00faltimo proyecto, y la DEA investiga varias pistas con la esperanza de encontrar algo certero.",
+                        "runtime": 2848,
+                        "displayRuntime": 2848,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZvx3ufVXfbTv4lON80PsD_Bv1y_r92tA-OMUTaEo68jAX2GNqRphe8e7AlbYVcklSG4ibLlvV5bnv_AClKyDNgS1DlJAnQlSizJY7cPiJk0h_1Q.jpg?r=be7",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236414,
+                        "episodeNum": 3,
+                        "title": "Peligro",
+                        "synopsis": "Para consternaci\u00f3n de Skyler, Walter vuelve a vivir a la casa. Walter, Mike y Jesse se re\u00fanen con Saul para pedirle que les encuentre un nuevo lugar para cocinar.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSJHUauOk0w-5fJIzF6vrtCzeVLtirDOZnfqbjm9Mm4IP_c7reu6k8_QOPE3E1Y4lMd-qf6Wu31-TwZWtYeed6czeplRyBJPpo6B5W0atjUX-_ii.jpg?r=237",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236415,
+                        "episodeNum": 4,
+                        "title": "51 (Cincuenta y uno)",
+                        "synopsis": "Lydia se ve forzada a entregar a su propio empleado a la DEA, y Mike le ofrece un reemplazante: Jesse. Walt y Skyler discuten sobre si la familia corre peligro.",
+                        "runtime": 2856,
+                        "displayRuntime": 2856,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWjfnfLPPHl9atujaQ3aBW1oJb9tbh3UmUkCGzF2FywzkLv9yLvB7-0uxBz2zKukH_UkPXj-E5yNGsZsWWfKo1H5wyfctQktfl9BzdhvzXNcxYdU.jpg?r=0b5",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236416,
+                        "episodeNum": 5,
+                        "title": "Carga de muerte",
+                        "synopsis": "Mike y Lydia trabajan para transportar la metilamina necesaria para la operaci\u00f3n. Walt y Jesse intentan elaborar un plan que no arruine su tapadera.",
+                        "runtime": 2895,
+                        "displayRuntime": 2895,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXRE8NmQQSH89dDUzUEd3kxO2DEl8fY-XTk1uVJjtbSh0Zh-BgcKFUS4PqFnYhZtYLTAJAOrADU2C2zf9oofi5cPsSgNmThKQ3TD-w1zTf03Wi47.jpg?r=dd9",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236417,
+                        "episodeNum": 6,
+                        "title": "Adquisici\u00f3n",
+                        "synopsis": "Walt, Mike y Jesse lidian con las repercusiones del robo de la metilamina. Mike y Jesse quieren salirse del negocio, pero Walt est\u00e1 decidido a construir su imperio.",
+                        "runtime": 2856,
+                        "displayRuntime": 2856,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVe4GQBcpcnM6WM-US25Y2PxRmofKmJGaeVwdM3NR068NVbXmhkwSVEUufF8Yg8NeXu9oFc1t6dp-gY_sMm3km7owoonxRgftiitLD9pnXYKNx9X.jpg?r=296",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236418,
+                        "episodeNum": 7,
+                        "title": "Di mi nombre",
+                        "synopsis": "Walter intenta iniciar un trato con Declan, y Hank \u2014quien tuvo que dejar ir a Mike\u2014 ahora tiene en la mira al abogado que ha estado pagando a los hombres de Mike.",
+                        "runtime": 2850,
+                        "displayRuntime": 2850,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRa3CsdHlZPdTDc7ql3TzChbDU9Wz9zi_vaBT7RITs0yuamXvFJA9lgx1EdFaPOCtU-tpsCZNAocAy-naDP_bjWVp7P6kHF5Ej2_Vy7PeBaobX9q.jpg?r=b33",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236419,
+                        "episodeNum": 8,
+                        "title": "Planeando sobre todos",
+                        "synopsis": "Walt se encuentra con Lydia para conseguir los nombres de la gente de Mike que est\u00e1 en la c\u00e1rcel. Skyler hace otro intento por convencer a Walt de que deje de cocinar.",
+                        "runtime": 2854,
+                        "displayRuntime": 2854,
+                        "year": 2012,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeHxxB3aGGtUL9M73mOahUwitLIcJ0PbOVFgoLcmISt3BNVuwJqU2NTV1iLMraFsrfBDbdq4tBVJGx0raviYnI-HGeQegrp-nQ82vzl_QO9ln7wc.jpg?r=18d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236421,
+                        "episodeNum": 9,
+                        "title": "Dinero sangriento",
+                        "synopsis": "A medida que Walt y Jesse se adaptan a la vida fuera del negocio, Hank se aferra a una inquietante pista.",
+                        "runtime": 2856,
+                        "displayRuntime": 2856,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZESB6twZVkHD77GFumJo_F2tHoNeUdY0l300lEwge6yGmDJ7pQdGvoIslVaUn3lqZFBnoDK2kq4bgdcOsgFDRx_uSwNIOUdgue-utZS4DevFO5R.jpg?r=917",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236422,
+                        "episodeNum": 10,
+                        "title": "Enterrado",
+                        "synopsis": "Mientras el pasado atormenta a Skyler, Walt cubre sus huellas, y Jesse contin\u00faa luchando con la culpa.",
+                        "runtime": 2858,
+                        "displayRuntime": 2858,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdlAphSFK-kqHR-zy25L9nd6oWXQui_cfYGUThk0wUwFCpvBzUvidvshVorN6gD3K1wT2tFLZVjRrvZKUjU2LbhgaTT1FooY6b4k9dPgeRkIE1D_.jpg?r=30d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236423,
+                        "episodeNum": 11,
+                        "title": "Confesiones",
+                        "synopsis": "Jesse decide hacer un cambio, y Walt y Skyler intentan lidiar con una exigencia inesperada.",
+                        "runtime": 2856,
+                        "displayRuntime": 2856,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTgWvSrbO_dJyZGFyIMENKyGp1ng5rNb0S3Xmaz0hLO6w_vsr0n2Ouk4CtnArPzP14h9TEIvbpm4Yed-lJF5XLz08NL7bfbBexpyuUhb9V6t5uAR.jpg?r=18e",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236424,
+                        "episodeNum": 12,
+                        "title": "Perro rabioso",
+                        "synopsis": "Una extra\u00f1a estrategia comienza a dar frutos, mientras se ponen en marcha planes que podr\u00edan darle un giro completo a la situaci\u00f3n.",
+                        "runtime": 2848,
+                        "displayRuntime": 2848,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWUu-j2VQmNTpOXSDsAJpMpo3taLa2zLjLxfTxXrDpIKMZUIYY8K-qdF6YA_gH9CGcc4H4jRRkl9u3YF0gLNSXpFseaD4v3kaaFGP54K5rxsiDV1.jpg?r=89f",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236425,
+                        "episodeNum": 13,
+                        "title": "Tohajiilee",
+                        "synopsis": "La presi\u00f3n aumenta para Walt, de un modo que nunca habr\u00eda esperado.",
+                        "runtime": 2786,
+                        "displayRuntime": 2786,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTLcoBXPzxmUlVx2UUVpGOrStWcAJKLg6PgxXPStG3Kft8hxlaakQ42mKbEpOyh61MoviCU3Z4l83E5mDNz4lqPA6AaWgp9zWFO-01VNAzl4a4Nj.jpg?r=7e6",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236426,
+                        "episodeNum": 14,
+                        "title": "Ozymandias",
+                        "synopsis": "Todos deben enfrentar circunstancias radicalmente distintas. Todos, sin excepci\u00f3n.",
+                        "runtime": 2846,
+                        "displayRuntime": 2846,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWgR3-vTZru3MImcdNsGUSLo2hWF-Ro1T6-2-YGm2-m-dTK62vjQqSWckdX2m7024MzhgnNSA156_XvivHpqSj_bueutNTF0gMo8s9MpiCwjvjC3.jpg?r=451",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236427,
+                        "episodeNum": 15,
+                        "title": "Pizarra de granito",
+                        "synopsis": "Los sucesos que se iniciaron hace mucho tiempo marchan hacia una conclusi\u00f3n.",
+                        "runtime": 3219,
+                        "displayRuntime": 3219,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaG6vq0is4sXwiia2WBdXvX-F_49j0puOZogb4Y7O2H2g6G6k28nbLvFr_1LipiTXqMyXKFTollaqbteNQCh4HemjhMMANErmCzC44GBe85Q741N.jpg?r=40e",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 70236428,
+                        "episodeNum": 16,
+                        "title": "Felina",
+                        "synopsis": "El final de la serie.",
+                        "runtime": 3329,
+                        "displayRuntime": 3329,
+                        "year": 2013,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXbhnJ8ghiws22O9akxRt_aFhjmMxITelbMSktTuM1GX7Lb8cqF3cK2WaUIe53GgYCrMWhEN8d7LaayY9A1eXxQw3sGMIVRUVZqUZlVeikWGzxRk.jpg?r=fa9",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            }
+        ]
+    ]
+}

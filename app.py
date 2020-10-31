@@ -6,7 +6,13 @@ def get_html(id_):
     html = bs(response.text,"html5lib")
     return html
 
-def get_title_info(html):
+def get_movie_info(html):
+    title = (str(html.find_all("script")[3]).split("nmTitleUI")[1].split('{"type":"seasonsAndEpisodes"')[0].split('"type":"Model"')[0].encode().decode("unicode_escape")[2:-3]+']}')[8:]
+    fixed_json = re.sub(r'(?<![\[\:\{\,])\"(?![\:\}\,])',"'",title).replace(": \'",':\"').replace("\']",'\"]')
+    title_json = json.loads(fixed_json)
+    return title_json
+
+def get_series_info(html):
     try:
         title = (str(html.find_all("script")[3]).split("nmTitleUI")[1].split('{"type":"seasonsAndEpisodes"')[0].encode().decode("unicode_escape")[2:-1]+']}')[8:]
         fixed_json = re.sub(r'(?<![\[\:\{\,])\"(?![\:\}\,])',"'",title).replace(": \'",':\"').replace("\']",'\"]')
@@ -28,11 +34,11 @@ def json_creator(html):    ### Crea un archivo .json con el nombre del titulo bu
     json_file = {"type":""}
     if "TVSeries" == check["@type"]:
         json_file["type"]='TVSeries'
-        json_file["TVSeriesInfo"]=[get_title_info(html)]
+        json_file["TVSeriesInfo"]=[get_series_info(html)]
         json_file["seasons"]=[get_season_info(html)]
     else:
         json_file["type"]="Movie"
-        json_file["MovieInfo"]=[get_title_info(html)]
+        json_file["MovieInfo"]=[get_movie_info(html)]
     name_file = check["name"].replace(" ","_")+".json"
     f = open(name_file,"w+")
     file = json.dumps(json_file,indent=4)
@@ -40,6 +46,6 @@ def json_creator(html):    ### Crea un archivo .json con el nombre del titulo bu
     f.close()
     return
 
-id_ = 70262639
+id_ = 80099753
 html = get_html(id_)
 json_creator(html)

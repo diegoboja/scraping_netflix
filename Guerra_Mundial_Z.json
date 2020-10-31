@@ -1,0 +1,342 @@
+{
+    "type": "Movie",
+    "MovieInfo": [
+        {
+            "videoId": 70262639,
+            "nextPage": "https://www.netflix.com/ar/title/70262639",
+            "sectionData": [
+                {
+                    "type": "hero",
+                    "data": {
+                        "title": "Guerra Mundial Z",
+                        "titleInfo": {
+                            "type": "titleMetadata",
+                            "data": {
+                                "title": "Guerra Mundial Z",
+                                "synopsis": "Un empleado de la ONU pelea contra el tiempo y el destino mientras viaja por el mundo intentando frenar una pandemia mortal de zombis.",
+                                "hasContentWarning": false,
+                                "starring": [
+                                    "Brad Pitt",
+                                    "Mireille Enos",
+                                    "Daniella Kertesz"
+                                ],
+                                "creators": [],
+                                "year": 2013,
+                                "runtime": 7017,
+                                "displayRuntime": 7017,
+                                "isPlayable": true,
+                                "maturityDetails": {
+                                    "requestCountry": "AR",
+                                    "value": "16+",
+                                    "maturityDescription": "Apta para mayores de 16 a\u00f1os",
+                                    "maturityLevel": 110,
+                                    "specificRatingReason": "violencia",
+                                    "board": "NFLX",
+                                    "boardId": 69,
+                                    "reasons": [
+                                        {
+                                            "id": 985,
+                                            "reasonDescription": "violencia",
+                                            "levelDescription": null
+                                        }
+                                    ]
+                                },
+                                "coreGenre": {
+                                    "genreName": "Ciencia ficci\u00f3n y fantas\u00eda de acci\u00f3n",
+                                    "genreUrl": "https://www.netflix.com/ar/browse/genre/1568"
+                                },
+                                "shouldShowSamplingWarning": false
+                            }
+                        },
+                        "valueProp": {
+                            "type": "valueProp",
+                            "data": {
+                                "bodyText": "WATCH_ALL_YOU_WANT"
+                            }
+                        },
+                        "watchFreeURL": null,
+                        "artwork": {
+                            "logo": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRJL19ytz-j354qjE6aoyAvjaQoGedxK80y8z_uxVgFxHXB2NNPPItdrLX9S27seYTOxbMD4l9LY025CVZpew-hiUL1-dAkOUJbY.png?r=749",
+                            "heroImage": {
+                                "type": "billboard",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWEPvE7lSmrP2cQHPuSi9HxQOzpBGLX3WsBT5n3V--I1eqdIS2CBlcUcGw6Ym-3FJS6QXFUoB3Pc3eDPXQDF4hRs5jxU.jpg?r=353",
+                                "height": 1152,
+                                "width": 2048,
+                                "isFallback": false
+                            },
+                            "mobileHeroImage": {
+                                "url": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABZo2qOOY6efBhPul4ix-lDpzZdXCWv7OU8KT-5B4QDu9QQ4CJcW2s9MW0umJSJo7pJ7DoKZvZ7F8o5_pDvz03Ttq9jsA.jpg?r=46c",
+                                "height": 720,
+                                "width": 1280,
+                                "isFallback": false
+                            }
+                        },
+                        "clipsAndExtras": null
+                    }
+                },
+                {
+                    "type": "hook",
+                    "data": {
+                        "hookText": "Brad Pitt, ganador del \u00d3scar, hace este \u00e9xito de gran presupuesto sobre zombis basado en una novela de Max Brooks.",
+                        "headerText": ""
+                    }
+                },
+                {
+                    "type": "moreDetails",
+                    "data": {
+                        "type": "movie",
+                        "isAvailableForDownload": true,
+                        "genres": [
+                            {
+                                "value": "Pel\u00edculas basadas en libros",
+                                "href": null
+                            },
+                            {
+                                "value": "Acci\u00f3n y aventuras",
+                                "href": "https://www.netflix.com/ar/browse/genre/1365"
+                            },
+                            {
+                                "value": "Thrillers de acci\u00f3n",
+                                "href": "https://www.netflix.com/ar/browse/genre/43048"
+                            },
+                            {
+                                "value": "Pel\u00edculas de terror",
+                                "href": "https://www.netflix.com/ar/browse/genre/8711"
+                            },
+                            {
+                                "value": "Pel\u00edculas de terror de zombis",
+                                "href": null
+                            },
+                            {
+                                "value": "Thrillers de ciencia ficci\u00f3n",
+                                "href": null
+                            },
+                            {
+                                "value": "Ciencia ficci\u00f3n y fantas\u00eda",
+                                "href": "https://www.netflix.com/ar/browse/genre/1492"
+                            },
+                            {
+                                "value": "Ciencia ficci\u00f3n y fantas\u00eda de acci\u00f3n",
+                                "href": "https://www.netflix.com/ar/browse/genre/1568"
+                            }
+                        ],
+                        "moodTags": [
+                            {
+                                "value": "Violento"
+                            },
+                            {
+                                "value": "De miedo"
+                            },
+                            {
+                                "value": "Siniestro"
+                            },
+                            {
+                                "value": "De suspenso"
+                            }
+                        ],
+                        "audioOptions": [
+                            {
+                                "value": "German"
+                            },
+                            {
+                                "value": "German"
+                            },
+                            {
+                                "value": "English - Audio Description"
+                            },
+                            {
+                                "value": "English [Original]"
+                            },
+                            {
+                                "value": "English - Audio Description"
+                            },
+                            {
+                                "value": "English [Original]"
+                            },
+                            {
+                                "value": "Spanish"
+                            },
+                            {
+                                "value": "Spanish"
+                            },
+                            {
+                                "value": "Italian"
+                            },
+                            {
+                                "value": "Italian"
+                            }
+                        ],
+                        "subtitles": [
+                            {
+                                "value": "Arabic"
+                            },
+                            {
+                                "value": "German"
+                            },
+                            {
+                                "value": "English"
+                            },
+                            {
+                                "value": "Spanish"
+                            },
+                            {
+                                "value": "Italian"
+                            }
+                        ],
+                        "socialLinks": {},
+                        "fullCast": [
+                            {
+                                "value": "Brad Pitt"
+                            },
+                            {
+                                "value": "Mireille Enos"
+                            },
+                            {
+                                "value": "Daniella Kertesz"
+                            },
+                            {
+                                "value": "James Badge Dale"
+                            },
+                            {
+                                "value": "David Morse"
+                            },
+                            {
+                                "value": "Ludi Boeken"
+                            },
+                            {
+                                "value": "Fana Mokoena"
+                            },
+                            {
+                                "value": "Abigail Hargrove"
+                            },
+                            {
+                                "value": "Sterling Jerins"
+                            },
+                            {
+                                "value": "Fabrizio Guido"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "moreTitles",
+                    "data": {
+                        "titles": [
+                            {
+                                "href": "/ar/title/70028897",
+                                "id": 70028897,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZMoDpqrtmI58T_7yam31IVqt5Yb5E0EiCz_Bzl7PA-bAvWFt45KDhcCpmIp5ETHa0UZrUqaD_cmePE1Ss1rQG-5nRSb.jpg?r=7c1",
+                                "title": "Doom: La puerta del infierno"
+                            },
+                            {
+                                "href": "/ar/title/60036256",
+                                "id": 60036256,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbuPGckeueTxYhYipV_anHL3dLHg2ULQa-TERiUKIZroO5cpQ9LJLDSvhLE4pPOarfbjGmF6iukd0XBOpTZx6fFulHQD.jpg?r=cb4",
+                                "title": "Anaconda 2: En busca de la orqu\u00eddea sangrienta"
+                            },
+                            {
+                                "href": "/ar/title/70028905",
+                                "id": 70028905,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfjhEge100o8kMgeJe8W6w5mz6N4yC5srs4HXzT_GbQn1XTVIvEEaN1ZGkH9ftNNUNBlwwni__pfRDjdfY8VUkvT7UoR.jpg?r=94e",
+                                "title": "La cueva"
+                            },
+                            {
+                                "href": "/ar/title/1153328",
+                                "id": 1153328,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfunWPx8iKQx2Upduk9fogYARKbS2Pl1rqRMEdjiMSIqICTPDMRwypf1BY0cnXDHeUW1ORKL80uTnnWkFBFI4OK2yPlQ.jpg?r=450",
+                                "title": "Anaconda"
+                            },
+                            {
+                                "href": "/ar/title/70220029",
+                                "id": 70220029,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABSTxqNI8XSTPbOZ7DR0B9r9WnLTwDIswa3lUVGIz7sDlkNXwBMxxPO9LUET7O3ASohc1gTBHtlo8Dt-9GALA6-q_-IWZ.jpg?r=98e",
+                                "title": "Resident Evil 5: La venganza"
+                            },
+                            {
+                                "href": "/ar/title/80119177",
+                                "id": 80119177,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABa0d_eHkgnxNmYoeaIt7rk3yTxJ1Oo12_BHLgwzd9QjMRTaP7M4eWihvypeMvBWGHJKZdqJR-8s5dWS1lbgJd7cKYbKD.jpg?r=225",
+                                "title": "Day of the Dead: Bloodline"
+                            },
+                            {
+                                "href": "/ar/title/22013422",
+                                "id": 22013422,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUUNjgNVGyuTnSpaNlLTaYhhRfOMRlg_o1cjtlu9G8R79OSEmyYZzIP_Hzr0W0cYgqLK1Yu6EwzSwBsXiyqkgjaQj0Pk.jpg?r=1e9",
+                                "title": "Alerta en lo profundo"
+                            },
+                            {
+                                "href": "/ar/title/70299747",
+                                "id": 70299747,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTMrRAX4JgZMcq0X6OwaEYr4PxU4kWkMUpotHhu9oZ8ngvGOlvnQuag12N1RyrnbWte59eiUJeucMTVZ2x3PbZvwzbYD.jpg?r=6cf",
+                                "title": "12 horas para sobrevivir"
+                            },
+                            {
+                                "href": "/ar/title/70044876",
+                                "id": 70044876,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABTDtZ-Xh6KfybILoZkTuomj0LR6j1IxCAH8DbHyu5gB3b6pkFHPiFgBTc9MT0IkTwbiuixoT9U4JzHheXLocq7pQ-4EB.jpg?r=820",
+                                "title": "Criaturas rastreras"
+                            },
+                            {
+                                "href": "/ar/title/80206300",
+                                "id": 80206300,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABaIkHPSg_BixYc9_ucDHfsgHNuCvOrv_-K6kMoG095-yxR2TMuXWDMw2KZ0suMZKnLcAXd1Hh_7Faxa_fmCRoMyWph56k7pqY5DoQU2_V7H9MRxQfGMpHSrYlqdocA.jpg?r=b7c",
+                                "title": "Aniquilaci\u00f3n"
+                            },
+                            {
+                                "href": "/ar/title/70126979",
+                                "id": 70126979,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABal6QcvI8QAY8QjB1NAzm9LHFMHKvQUh_4BTYV8L4NB_D8kKrkTxznZZR0nwLWIcF0E-Sm9W9Gcpjv-o4QU0z7YrXerp.jpg?r=399",
+                                "title": "Priest: El vengador"
+                            },
+                            {
+                                "href": "/ar/title/80161216",
+                                "id": 80161216,
+                                "imageSrc": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQlwr412T2F0gF7lBNrCRBvRVRLaB2Jl2rdP0OeRjzNwgT-uaVENzOjM6_iDIiSzLaOwFAcBNZr1yr-dvRk1m3HXi7lSpS8FhFxze6sVSA1giX-AKSBZkSrh7LK3Uw.jpg?r=476",
+                                "title": "Cargo"
+                            }
+                        ],
+                        "headerHref": null,
+                        "isOriginal": false
+                    }
+                },
+                {
+                    "type": "comingSoon",
+                    "data": {
+                        "titles": [
+                            {
+                                "id": 81059918,
+                                "title": "Call Me Crazy",
+                                "synopsis": "Tras internarse voluntariamente en el centro psiqui\u00e1trico en el que est\u00e1 la mujer de la que se enamor\u00f3, Adri descubre que salir no ser\u00e1 tan f\u00e1cil como pensaba.",
+                                "url": "/ar/title/81059918"
+                            },
+                            {
+                                "id": 81103322,
+                                "title": "50M2",
+                                "synopsis": "Un sicario que huye de sus jefes se oculta en una sastrer\u00eda vac\u00eda, donde todos lo confunden con el hijo del due\u00f1o fallecido, y \u00e9l no tarda en aprovechar la oportunidad.",
+                                "url": "/ar/title/81103322"
+                            },
+                            {
+                                "id": 81176731,
+                                "title": "The Last Paradise",
+                                "synopsis": "Italia, a\u00f1os cincuenta: un agricultor se enamora de la hija de un hacendado, y su sue\u00f1o de mejorar la vida de los campesinos se derrumba. Basada en hechos reales.",
+                                "url": "/ar/title/81176731"
+                            },
+                            {
+                                "id": 81069541,
+                                "title": "Amor y anarqu\u00eda",
+                                "synopsis": "Una asesora casada y un joven especializado en inform\u00e1tica se entregan a un juego de seducci\u00f3n que desaf\u00eda las normas de la sociedad y los hace revaluar sus vidas.",
+                                "url": "/ar/title/81069541"
+                            },
+                            {
+                                "id": 80991754,
+                                "title": "Clickbait",
+                                "synopsis": "En esta serie de suspenso, ocho puntos de vista diferentes aportan pistas prometedoras sobre el autor de un brutal crimen alimentado por las redes sociales.",
+                                "url": "/ar/title/80991754"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

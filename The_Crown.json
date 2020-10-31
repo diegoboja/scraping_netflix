@@ -1,0 +1,584 @@
+{
+    "type": "TVSeries",
+    "TVSeriesInfo": [
+        {
+            "videoId": 80025678,
+            "nextPage": "https://www.netflix.com/ar/title/80025678",
+            "sectionData": [
+                {
+                    "type": "hero",
+                    "data": {
+                        "title": "The Crown",
+                        "titleInfo": {
+                            "type": "titleMetadata",
+                            "data": {
+                                "title": "The Crown",
+                                "synopsis": "Este drama narra las rivalidades pol\u00edticas y el romance de la reina Isabel II, as\u00ed como los sucesos que moldearon la segunda mitad del siglo XX.",
+                                "hasContentWarning": false,
+                                "starring": [
+                                    "Olivia Colman",
+                                    "Helena Bonham Carter",
+                                    "Tobias Menzies"
+                                ],
+                                "creators": [
+                                    "Peter Morgan"
+                                ],
+                                "year": 2016,
+                                "seasonCount": 3,
+                                "isPlayable": true,
+                                "maturityDetails": {
+                                    "requestCountry": "AR",
+                                    "value": "16+",
+                                    "maturityDescription": "Apta para mayores de 16 a\u00f1os",
+                                    "maturityLevel": 110,
+                                    "specificRatingReason": "sexo, lenguaje inapropiado",
+                                    "board": "NFLX",
+                                    "boardId": 69,
+                                    "reasons": [
+                                        {
+                                            "id": 986,
+                                            "reasonDescription": "sexo",
+                                            "levelDescription": null
+                                        },
+                                        {
+                                            "id": 988,
+                                            "reasonDescription": "lenguaje inapropiado",
+                                            "levelDescription": null
+                                        }
+                                    ]
+                                },
+                                "coreGenre": {
+                                    "genreName": "TV brit\u00e1nica",
+                                    "genreUrl": "https://www.netflix.com/ar/browse/genre/52117"
+                                },
+                                "shouldShowSamplingWarning": false
+                            }
+                        },
+                        "valueProp": {
+                            "type": "valueProp",
+                            "data": {
+                                "bodyText": "WATCH_ALL_YOU_WANT"
+                            }
+                        },
+                        "watchFreeURL": null,
+                        "artwork": {
+                            "logo": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABeCCbEhKEnYjEYRnwmtJgDM30S40IqboVEJ1k_12OIhX7VK1JfDOftnvo2xRYqS1w1siHgMDIbs_g8ypyHi4ERgOrdIsK3eCJ7xdV1gY3UnaYa0drCLFl3IS9JEE5O9KBJ06sWaXiYDSne0N-ciUQTdNYz3qQGmWtFJTzAH7_G8oZQ.png?r=3c1",
+                            "heroImage": {
+                                "type": "billboard",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWgEIjL7MhfcCgJdRIvn6g3Z834lCKymgSdlUuYBEVcqv0CEQcvLZnTOnyKQvyHSuk9B9shjFjvn-IXFUzZTpwQEmPK4.jpg?r=1f6",
+                                "height": 1152,
+                                "width": 2048,
+                                "isFallback": false
+                            },
+                            "mobileHeroImage": {
+                                "url": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTpfDIoQKdOZA1EaecA9TzufM922eRv31amdOu8EZNt9jwC30q_BrEfMaeazqWUBmyPDLMHThUup_6w9Y3woe6GuK6sc.jpg?r=45c",
+                                "height": 720,
+                                "width": 1280,
+                                "isFallback": false
+                            }
+                        },
+                        "clipsAndExtras": null
+                    }
+                },
+                {
+                    "type": "hook",
+                    "data": {
+                        "hookText": "Esta serie cosech\u00f3 Globos de Oro a mejor drama y a mejor actriz, adem\u00e1s de un Emmy para Claire Foy y John Lithgow.",
+                        "headerText": "Temporada 4 disponible el 15 de noviembre"
+                    }
+                },
+                {
+                    "type": "additionalVideos",
+                    "data": {
+                        "headerTextKey": "VIDEOS",
+                        "subheaderText": "The Crown",
+                        "supplementalVideos": [
+                            {
+                                "title": "Temporada 4 (Tr\u00e1iler): The Crown",
+                                "id": 81382681,
+                                "availabilityStartDate": 1603988100000,
+                                "runtime": 150,
+                                "synopsis": "",
+                                "subType": "TRAILER",
+                                "salience": 80,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTZUyJxaxFSftcDSC-eezF0gbHfFwYFCU0xoGpqSFAUaXytNwf-47jxvRGr2Q0Lpn6KWRPDQSGyvLncnahnWUsHOEYmtEqWu5JJ4RbMW8rh0TeFS.jpg?r=344",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa7/605/723401605.mp4?v=1"
+                            },
+                            {
+                                "title": "Temporada 3 (Tr\u00e1iler): The Crown",
+                                "id": 81012254,
+                                "availabilityStartDate": 1571670000000,
+                                "runtime": 139,
+                                "synopsis": "La familia real se adapta a los cambios de los sesenta y setenta. Sin embargo, como siempre para la reina Isabel\u00a0II, el sacrificio y el deber est\u00e1n primero.",
+                                "subType": "TRAILER",
+                                "salience": 70,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ8C0mF3XM7n2WueJNWHrgUwKD1ECpJHizar7zifh3KEezw2iyADwEwCpg7TvvM_KMz203SDjPH2Esh6ISUuL8pNi_5zG4AX0f_-lAySw9inmx1s.jpg?r=419",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa4/329/1618663329.mp4?v=1"
+                            },
+                            {
+                                "title": "Temporada 2 (Tr\u00e1iler): The Crown",
+                                "id": 80221100,
+                                "availabilityStartDate": 1509975000000,
+                                "runtime": 140,
+                                "synopsis": "Inglaterra se adentra en una nueva era, y la reina Isabel enfrenta cuestionamientos sobre el valor de la monarqu\u00eda y problemas en el matrimonio.",
+                                "subType": "TRAILER",
+                                "salience": 70,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY8g9DLgaWR-1HXWjpCCHNPIwhVREB0WA5OYICYLWqsqb5hPII3LU5GuGLdujAS_pZ9CV9FZF3MngBffhU7XGkSdlmOQeODdEfCDUixuP2VRLQjs.jpg?r=70b",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa2/879/548906879.mp4?v=1"
+                            },
+                            {
+                                "title": "Temporada 4 (Avance): The Crown",
+                                "id": 81328977,
+                                "availabilityStartDate": 1602601200000,
+                                "runtime": 92,
+                                "synopsis": "",
+                                "subType": "TEASER_TRAILER",
+                                "salience": 70,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUQxQ2SfjGl6VrfjHGlETq5h_2ihewKnN6fT81bmmZ0EYcgHOigQ5piv0aWxliXuWnapLiBPzOSg4DC9bOkmnQZ_oNfVOxiHxX7dmETV8qdzH669.jpg?r=e84",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa7/575/1323254575.mp4?v=1"
+                            },
+                            {
+                                "title": "The Crown (Tr\u00e1iler)",
+                                "id": 80049982,
+                                "availabilityStartDate": 1477465200000,
+                                "runtime": 165,
+                                "synopsis": "El mundo cambia a pasos agigantados y la nueva reina, Isabel II, tiene un camino sinuoso por delante, tanto en los dominios de la pol\u00edtica como en los del coraz\u00f3n.",
+                                "subType": "TRAILER",
+                                "salience": 70,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQl4SXlPrFt9UQuanTjHtllNvEGhmFW3RxiILStfqVrxTkmY0_79cnpXqdrRlnBADpxLL7EUjOh9Nr9OMxezcZxcpt-0WtfLavjJzI13JIPLeS2_.jpg?r=e91",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa1/902/790727902.mp4?v=1"
+                            },
+                            {
+                                "title": "Temporada 1 (Resumen): The Crown",
+                                "id": 80221211,
+                                "availabilityStartDate": 1512720000000,
+                                "runtime": 239,
+                                "synopsis": "Desde el momento en que la princesa Isabel sube al trono, su vida se sumerge en un mundo de intensos cambios marcado por la intriga pol\u00edtica y los conflictos familiares.",
+                                "subType": "RECAP",
+                                "salience": 50,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY3yihVZNTVE-yRc_7iTGdFgohMsYerUPZ2UMDO1wVIa_sCdicSPky-j7f7jk7Nc9_dmSFYoYlGI1CrTcZBdvWFULygcSwVAcMMnKTJK6Dirgm97.jpg?r=4c7",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa2/741/170499741.mp4?v=1"
+                            },
+                            {
+                                "title": "Tr\u00e1iler: Un asunto delicado",
+                                "id": 80145208,
+                                "availabilityStartDate": 1477465200000,
+                                "runtime": 102,
+                                "synopsis": "Mientras un envejecido Winston Churchill se enfrenta a enemigos pol\u00edticos que quieren derrocarlo, la reci\u00e9n coronada reina Isabel debe decidir en d\u00f3nde radica su lealtad.",
+                                "subType": "TRAILER",
+                                "salience": 50,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVbalJc7dNXnVgFdi-p4EPb1FLyxDcGJEptAozOKEGnbo1r6aS9WHPXu_RwU9dVfqOe59DBsHawRO-wk_Ej7U-IOHIvHBEvT8jWOBFbsNEdyoMYY.jpg?r=492",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa4/459/1263477459.mp4?v=1"
+                            },
+                            {
+                                "title": "Tr\u00e1iler: Orgullo y alegr\u00eda",
+                                "id": 80145142,
+                                "availabilityStartDate": 1477465200000,
+                                "runtime": 103,
+                                "synopsis": "Esposa. Hermana. Mujer. Cuando la joven princesa Isabel se convierte en reina, las relaciones con sus seres queridos, e incluso consigo misma, cambian para siempre.",
+                                "subType": "TRAILER",
+                                "salience": 50,
+                                "placeholderImageUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX2yy4JtDoG6LUysg4rBjebVH9hL9s-SYGecSUEqa0vOCQLMtI0fScqZaOrNr7SEDxPV9RG6OH0rhv6SIneILPjXsJkr-ZvuoKnkBL2EVymC-vfP.jpg?r=d87",
+                                "url": "https://occ-0-2443-185.1.nflxso.net/so/soa6/902/450031902.mp4?v=1"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "seasons": [
+        [
+            {
+                "seasonId": 80025812,
+                "num": 1,
+                "synopsis": "Coronan reina a la joven Isabel, quien debe lidiar con los asuntos de Estado y su vida personal, dos mundos que chocan como nunca hubiera imaginado.",
+                "seasonName": "Temporada 1",
+                "releaseYear": 2016,
+                "shortName": "T1",
+                "episodes": [
+                    {
+                        "episodeId": 80025757,
+                        "episodeNum": 1,
+                        "title": "Wolferton Splash",
+                        "synopsis": "La joven princesa Isabel se casa con el pr\u00edncipe Felipe. Mientras la salud del rey Jorge VI empeora, Winston Churchill es elegido primer ministro por segunda vez.",
+                        "runtime": 3416,
+                        "displayRuntime": 3416,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSIXU-xKHvQthSzJ7jFQ8N4Bvd8OizM1iOv6wzaCjHaaZA3EFxDCERV7Juvu9RakkQa8_mT8QR4DYfnFNTTo80SuJZ3FgeX-swN4-bIa6s8WuaNX.jpg?r=83d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025758,
+                        "episodeNum": 2,
+                        "title": "Hyde Park Corner",
+                        "synopsis": "El rey Jorge est\u00e1 muy enfermo para viajar, as\u00ed que Isabel y Felipe recorren cuatro continentes para representarlo. Los l\u00edderes del partido intentan debilitar a Churchill.",
+                        "runtime": 3692,
+                        "displayRuntime": 3692,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd12Ef1ziPSMs8DX5BYMjBT9hNdMEq9zjIf48TzHj4-9LR1yce2ODuxkaYGi468JJv-Xe6iejJRUo_FN0vS1BPVMl_S84HVL16YxK2bsZc0JPxSO.jpg?r=cc2",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025759,
+                        "episodeNum": 3,
+                        "title": "Windsor",
+                        "synopsis": "Ahora que Isabel tiene un nuevo papel, Felipe intenta reafirmar su poder. Churchill quiere retrasar la coronaci\u00f3n. Llega el hermano deshonrado del rey Jorge.",
+                        "runtime": 3592,
+                        "displayRuntime": 3592,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWQTOjsXX3D-JC7byIFj_BXEqw-vNO2EB1Tahf2OowxlAPhMHSl1IG34ozNND9schVtmnUR_aYVf5QIqD0so6JHHDu2VB1GoSjFbn9ovQn7KJLxq.jpg?r=2c8",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025760,
+                        "episodeNum": 4,
+                        "title": "Fuerza mayor",
+                        "synopsis": "Una niebla densa paraliza Londres varios d\u00edas y genera un peligro para la salud. Los enemigos pol\u00edticos de Churchill sacan partido de su inacci\u00f3n.",
+                        "runtime": 3490,
+                        "displayRuntime": 3490,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVYi7PKyxf8au5OrOXsVpi8pCY7VuhpIMTYOKN3PPTcLCbftkxlMb1iCWZ3OnsMXrS68dlM30kw4md7HXN5lyRwYonAj9Hom8Wp1jNNBEz_UTnXT.jpg?r=805",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025761,
+                        "episodeNum": 5,
+                        "title": "Humo y espejos",
+                        "synopsis": "Isabel rechaza el protocolo al nombrar a Felipe coordinador de su coronaci\u00f3n, pero las ideas de su marido generan conflicto. El duque de Windsor regresa a Londres.",
+                        "runtime": 3336,
+                        "displayRuntime": 3336,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT7Li8-z2feN6rEXUQFRz8agL1RVnIv99vYyNXZVNLAiYA4g0kuVKLm8NjzsYYjbwBUhuNXxNFR0LBg4c5UIOYY9wk8XJrYPhbRe17U20L0L1QoK.jpg?r=ee1",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025762,
+                        "episodeNum": 6,
+                        "title": "Noticia bomba",
+                        "synopsis": "Margarita y Peter buscan el apoyo de Isabel. Un esc\u00e1ndalo sobre la familia real est\u00e1 a punto de llegar a la prensa, y la Reina Madre interviene.",
+                        "runtime": 3510,
+                        "displayRuntime": 3510,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS6nVc_Zh7OV7sK-1oLgsPj-0A3PvQYysGdrGLAnm9XUwKdhSH6JtN5_pD86_MMZK-WI6QGNCZ6ZvaTWoZZTWAx2gnGd-h1WNUxvCTc8edS0b5mn.jpg?r=9a9",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025763,
+                        "episodeNum": 7,
+                        "title": "Scientia potentia est",
+                        "synopsis": "Los sovi\u00e9ticos hacen pruebas con la bomba H, y tanto Churchill como Eden sufren problemas de salud. Isabel decide contratar a un tutor para mejorar su cultura general.",
+                        "runtime": 3536,
+                        "displayRuntime": 3536,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTEFpESCAs2XU2NwSGSQD7GJuEbqrsgKqEqZj5pmQ8kE0GdCIi_agMZ81Inhl_-qdkTPZ0t-pqbsssv5Yz4AIXk8o1c5BpMPQhtczcutc6QLUCMn.jpg?r=104",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025764,
+                        "episodeNum": 8,
+                        "title": "Orgullo y alegr\u00eda",
+                        "synopsis": "Isabel y Felipe hacen un viaje agotador por todo el mundo. Margarita asume algunas de las obligaciones oficiales de su hermana e intenta animar las cosas.",
+                        "runtime": 3528,
+                        "displayRuntime": 3528,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf-zUtEpHsFScPEFXTkEJOD6Jgkg4BqHILrZJFKiGg1l2FXFb7vgU8zF1OzH5FTskylVFkxFKgRwAnkQloiOC9_mW87gN-7lgUiFyVe31WZlzkhn.jpg?r=cd4",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025765,
+                        "episodeNum": 9,
+                        "title": "Asesinos",
+                        "synopsis": "Crece la tensi\u00f3n entre Felipe e Isabel, y ella pasa m\u00e1s tiempo con su viejo amigo Porchey. Pintan el retrato de Churchill, quien cumple 80 a\u00f1os.",
+                        "runtime": 3640,
+                        "displayRuntime": 3640,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcOnHLEgLnVIEL2xCk48jrvadsVa8UuT3dw5c1BgrV3m3nodNUJuFPl6cJMcXykdK0g8HQLmbbCjqU6Grrj61JVUJMPmWAhn5yvMmr9plBO9Op_o.jpg?r=c40",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80025766,
+                        "episodeNum": 10,
+                        "title": "Gloriana",
+                        "synopsis": "Margarita y Peter se reconcilian, pero un nuevo obst\u00e1culo se interpone en su camino. Isabel se debate entre su deber como reina y su amor por su hermana.",
+                        "runtime": 3310,
+                        "displayRuntime": 3310,
+                        "year": 2016,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRrhD9JFbYi-Ut4vUcBx4LzCrh8XEjPJNt95t5aYFj2LyW073eH_nZ6c6NC3qX2_zHHfG1G53XSmsM1NmmKfHPBtNAzkEr2BOqsVPT5GR-IXDUTA.jpg?r=835",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            },
+            {
+                "seasonId": 80148596,
+                "num": 2,
+                "synopsis": "Con la llegada de nuevos tiempos, la reina Isabel lucha por mantener a flote las tradiciones mientras explora un mundo en constante cambio.",
+                "seasonName": "Temporada 2",
+                "releaseYear": 2017,
+                "shortName": "T2",
+                "episodes": [
+                    {
+                        "episodeId": 80149005,
+                        "episodeNum": 1,
+                        "title": "Desventura",
+                        "synopsis": "Isabel hace un descubrimiento angustiante mientras Felipe se embarca en un largo viaje. Egipto se apodera del canal de Suez y el primer ministro Eden quiere contraatacar.",
+                        "runtime": 3414,
+                        "displayRuntime": 3414,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT4kWhHR1HNDbvYGNRQwcDpvJHx4VxQz2Z5LZ20GepHKOmDYm9Y5aUJpOGcLKNY2YRFtLvw_WEvtPJ-2nc6gX1l7Ul229KRkQQeU9WLEfsXN-Cxv.jpg?r=096",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149006,
+                        "episodeNum": 2,
+                        "title": "Compa\u00f1\u00eda de hombres",
+                        "synopsis": "Felipe revive recuerdos dolorosos durante una entrevista; Isabel, por su parte, siente que la relaci\u00f3n con su esposo se debilita. Eden enfrenta la presi\u00f3n internacional.",
+                        "runtime": 3296,
+                        "displayRuntime": 3296,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdqE-PrYvlN7dL9JExg8_4zDKvEfhkmE0eK3oVhIfZyyq7PRZyO0jq5eotNl2b4JDNOe2ONmrX2yWQ8pUimww1SmI0xC3Xc0W_0Fn6MNC13XRygC.jpg?r=0a4",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149007,
+                        "episodeNum": 3,
+                        "title": "Lisboa",
+                        "synopsis": "En el palacio, el c\u00edrculo \u00edntimo del poder intenta eludir un esc\u00e1ndalo que deja mal parado a Felipe. Eden recibe cr\u00edticas del gabinete y de la prensa.",
+                        "runtime": 3384,
+                        "displayRuntime": 3384,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYC3hvhWxhSr7a4owqqAIJ0AmQDcvaPuSgNkIR_vhu8Jb8Oq8F4Zol5yUAr4SDaYggI2O62pHwrjooD3ky3GsuFqI9IXQosfnK7uSCDmkLp1eAvO.jpg?r=aa2",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149008,
+                        "episodeNum": 4,
+                        "title": "Beryl",
+                        "synopsis": "Cuando Isabel y Felipe organizan una gran fiesta por su d\u00e9cimo aniversario, Margarita y el nuevo primer ministro juegan con fuego.",
+                        "runtime": 3660,
+                        "displayRuntime": 3660,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbvVhoMxgZId4aXE1GvLsTPXMV8xYVriuMJpFnT9DOgUKo-is0vhnqK-KKRi4t_-mQEi1y3CEWk3FdaBoKQUpRZfpCf3eUYP526GMoxXY9d2bG7E.jpg?r=dac",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149009,
+                        "episodeNum": 5,
+                        "title": "Marionetas",
+                        "synopsis": "Isabel hace un discurso sordo en la f\u00e1brica de Jaguar y tanto ella como la monarqu\u00eda reciben ataques p\u00fablicos por el comportamiento de un lord muy honesto.",
+                        "runtime": 3680,
+                        "displayRuntime": 3680,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABURhWLSYnmGmUGTWN0AhOw_yA0XQLaceuAgW9u88D1H8rBNPY1ZsVW7jXWuLCwPdS-vJ-k34qWQ6kr3mskRt6FkyBBCdwkuDXSec0eD3LlO9roGD.jpg?r=f02",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149010,
+                        "episodeNum": 6,
+                        "title": "Vergangenheit",
+                        "synopsis": "Un documento secreto de la Segunda Guerra Mundial abre los ojos a Isabel sobre alguien de la familia. El duque de Windsor hace campa\u00f1a para volver a la vida p\u00fablica.",
+                        "runtime": 3716,
+                        "displayRuntime": 3716,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZYgIgQkRrLik1nY0fo6e-2Pg5Ao1sQvPA-WDxZ0-K8ud8_Kr0qDkIQc4EkXw3lWebnoN4LYj4yZ55IREC6YLcbE4ZYnTqPvTmRbBrF6ByUypua1.jpg?r=f41",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149011,
+                        "episodeNum": 7,
+                        "title": "Matrimonium",
+                        "synopsis": "Margarita da un salto arriesgado tras recibir una carta de Peter Townsend. M\u00e1s tarde, Isabel cree tener buenas noticias, pero no lo son tanto para su hermana.",
+                        "runtime": 3640,
+                        "displayRuntime": 3640,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYq_mc4I6YR3II5ZfKdoLTVF4iDbnGkIac_ojBaTG4yrX8wF3KCp5OWunvIZBJZomuCVGpwd3FotFZpEyTSH6Ks5dXhzN0NM027eKsy3wcOEY0q5.jpg?r=0a4",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149012,
+                        "episodeNum": 8,
+                        "title": "Estimada Sra. Kennedy",
+                        "synopsis": "Inspirada por Jackie Kennedy y contra los deseos del Gobierno, Isabel rompe los protocolos para resolver un problema en Ghana.",
+                        "runtime": 3446,
+                        "displayRuntime": 3446,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX1O5wQUivKbbCDeA8yTLxZfUol3aXXbSofKYM33O4gszCuloNUeBNUsaOHGhw6YcP53Decup_odq6zRmdeXnNPxCAL1n1Hzgj_Dxjo-kovSG5Uy.jpg?r=ef5",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149013,
+                        "episodeNum": 9,
+                        "title": "Paterfamilias",
+                        "synopsis": "Felipe evoca sus a\u00f1os de estudio en Escocia y los obst\u00e1culos que super\u00f3, y se empe\u00f1a en que el pr\u00edncipe Carlos vaya a la misma escuela, su alma mater.",
+                        "runtime": 3622,
+                        "displayRuntime": 3622,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTtS3m1Qf4J1fNW34tfUsiRPbMH5chuDwoTziwjR6EsWi1ldZKSLjwXKgWSpyvzOtFoNsENPdPqVnOVLLk3sDfy5pgi-cb8fIUr1eaRuGYSBDPwO.jpg?r=b25",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80149014,
+                        "episodeNum": 10,
+                        "title": "Hombre misterioso",
+                        "synopsis": "Un esc\u00e1ndalo en el Gobierno roza la casa real y complica a la monarqu\u00eda. Isabel decide refugiarse en Escocia para sobrellevar su dif\u00edcil embarazo.",
+                        "runtime": 3582,
+                        "displayRuntime": 3582,
+                        "year": 2017,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd8t__K2rSbOGUxKU8kSy9XuNetsAlM9KCwTnw6tDknrtLco9Zk9zgBdFLYav2TdHE6YYQi2Jao9yqETbCSUSDBswBjt0txd6tEmCcN3AFAi1k3P.jpg?r=f83",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            },
+            {
+                "seasonId": 80215845,
+                "num": 3,
+                "synopsis": "En las d\u00e9cadas de\u00a0los\u00a060 y\u00a070, la familia real lidia con conflictos y traiciones mientras intenta mantener vivas las tradiciones en un mundo en constante evoluci\u00f3n.",
+                "seasonName": "Temporada 3",
+                "releaseYear": 2019,
+                "shortName": "T3",
+                "episodes": [
+                    {
+                        "episodeId": 80215731,
+                        "episodeNum": 1,
+                        "title": "Olding",
+                        "synopsis": "A Isabel le inquieta que el l\u00edder del Partido Laborista sea electo primer ministro en medio de sentimientos antimon\u00e1rquicos y rumores de vinculaci\u00f3n con la\u00a0KGB.",
+                        "runtime": 2860,
+                        "displayRuntime": 2860,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWBpcsSW5o1MCa9VOcPS_Q2qSQFN3H8k5egIzcctttoDDlQnHr2UquI2Hkc-s8LiRu8RPEjwHdpf2imW1iuGgXK1G-LBKFEIteKzJYmxdwPMuPq2.jpg?r=967",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215732,
+                        "episodeNum": 2,
+                        "title": "Margarismo",
+                        "synopsis": "Gran Breta\u00f1a necesita el rescate financiero de los Estados\u00a0Unidos, por lo cual Isabel a disgusto consigue que Margarita ayude a obtener el apoyo del presidente Johnson.",
+                        "runtime": 2858,
+                        "displayRuntime": 2858,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaNzsz9PyK7wrgk22sX4ssQ4dblRbclX_utEoBmZY3gPdi-aCYEpeLrQfj8uXu-2f7emA_dhX34QK8zthEFQW6i-RjeF1w3QMjUQUyLWMpSoa0l2.jpg?r=fec",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215733,
+                        "episodeNum": 3,
+                        "title": "Aberfan",
+                        "synopsis": "Ante un tr\u00e1gico accidente en un pueblo minero gal\u00e9s que r\u00e1pidamente se politiza, tanto a Isabel como a Wilson les cuesta decidir c\u00f3mo responder.",
+                        "runtime": 3310,
+                        "displayRuntime": 3310,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfT3SVmJP4w455DqHzjPwbzaV65paQIXKFpK49pUeCehll6O3O-L6-nNDAHlBBoMImRdEPJoWz5C4J6mdfvRS3qifvQCC9G1fF5aLRQPSiL4hN9v.jpg?r=6b3",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215734,
+                        "episodeNum": 4,
+                        "title": "Bubbikins",
+                        "synopsis": "Cuando la familia real hace un documental para mejorar su imagen, de\u00a0Grecia llega una sorpresiva visita que estropea los planes publicitarios de Felipe.",
+                        "runtime": 3582,
+                        "displayRuntime": 3582,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTcE3VJ01o2LmSI8oFosEhXPssMHRk2d3GRe0GRcI947hqx-HnXM2J8On2CRe0XBqO0xzIB1ccu5rRV8OQgekU0mCbeZpFuK0O5tsuynpzwRdZ91.jpg?r=c97",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215735,
+                        "episodeNum": 5,
+                        "title": "Golpe de Estado",
+                        "synopsis": "Isabel busca mejorar el manejo de sus caballos de carrera, y ello la lleva a imaginarse la vida que pudo haber tenido. Entretanto, se gesta un complot contra su Gobierno.",
+                        "runtime": 3440,
+                        "displayRuntime": 3440,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQxcGMsXHvBNvYbtUUlrqaeSS4lx1Fcw7R2s-uNPfC6lZ5ZNJ9HXXo62k7ozFkcrnsTx1rXNiM_gg0DgEScDYE7RIl1TSRHV7AL6Zcmdf4qgyfvO.jpg?r=563",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215736,
+                        "episodeNum": 6,
+                        "title": "Tywysog Cymru",
+                        "synopsis": "Ante el creciente nacionalismo gal\u00e9s que precede a la investidura de Carlos como pr\u00edncipe de Gales, lo env\u00edan a pasar tres meses all\u00ed y aprender el idioma.",
+                        "runtime": 3344,
+                        "displayRuntime": 3344,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWtgslqoa3F-AL39sqYIW6t3BPeFCT5XZXuuSIEAe2TpDcwPxG5aywjvvw7KfxiZu1c298Lw0ZMFKEeveYTQc96tp7DAL1_ZzgB7oD7fbhS9pqn3.jpg?r=c35",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215737,
+                        "episodeNum": 7,
+                        "title": "Polvo lunar",
+                        "synopsis": "Con la llegada del hombre a la\u00a0Luna, Felipe se siente decepcionado por la ausencia de logros personales a su edad madura y empieza a buscar fuentes de inspiraci\u00f3n.",
+                        "runtime": 3388,
+                        "displayRuntime": 3388,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYZ2hBulRCrPBfKV0pDAQ9JNMHNpf-mOK8pn6pKM-ee06--2Twi1xyLMxM56lLp3OiZ769YCb1bYijZXR1a03n5uwNs25I9osBDbFtgHkalpUUbE.jpg?r=62d",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215738,
+                        "episodeNum": 8,
+                        "title": "El hombre en suspenso",
+                        "synopsis": "Carlos empieza a salir con Camilla Shand, e Isabel considera ir a Par\u00eds para visitar a un enfermo duque de Windsor, cuyo destino cambi\u00f3 cuando conoci\u00f3 a Wallis Simpson.",
+                        "runtime": 2828,
+                        "displayRuntime": 2828,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQyQA4VI8Iz3W4giLRwvvGmO96rOOsXbuf-AyYQoL9U30dW3Te11U7ZMDQbtnGEoSZCyrs_-St62qm1xYJH5ZBavAk0VAJVX1dZX5BpTPBS4N2Kl.jpg?r=f17",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215739,
+                        "episodeNum": 9,
+                        "title": "Enredo",
+                        "synopsis": "Mientras el Gobierno llega a un punto muerto con los mineros, la familia de Carlos interfiere en su relaci\u00f3n cada vez m\u00e1s intensa con Camilla.",
+                        "runtime": 2836,
+                        "displayRuntime": 2836,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd51onSDEnR7NsdKWlrFjHsc7QdGAKt5LJwc6UN9MTT29g8irCn5yPhWv2UAkLtNon7TcJfzp8ZdzxtUnhEWzERn5fth639gFPrHNmx65Wq2Hfz1.jpg?r=f08",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    },
+                    {
+                        "episodeId": 80215740,
+                        "episodeNum": 10,
+                        "title": "Grito de amor",
+                        "synopsis": "Margarita ve su matrimonio desmoronarse y busca consuelo en otros brazos, pero su delicado estado mental y la falta de apoyo familiar la alejan de la felicidad verdadera.",
+                        "runtime": 3532,
+                        "displayRuntime": 3532,
+                        "year": 2019,
+                        "artworkUrl": "https://occ-0-2443-185.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZpKhPu_IP5Q-dpgtQOoqKIIhd6h0Rj23n5Tk6e8TwmjKcL-DHrX1AfHU7IrvZReXEuoe-L6u5BgaUziiVUXn4s52BptpZkFxFT53AvCb5geEFia.jpg?r=e94",
+                        "showNewEpisodeBadge": false,
+                        "hideEpisodeNumber": false
+                    }
+                ]
+            }
+        ]
+    ]
+}
